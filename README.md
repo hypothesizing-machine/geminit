@@ -1,1 +1,1 @@
-### Thingking Machine (geminit)
+### Hypothesizing Machine (geminit)
